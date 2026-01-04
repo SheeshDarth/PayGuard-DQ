@@ -2,7 +2,7 @@
 
 **GenAI Agent for Universal, Dimension-Based Data Quality Scoring in Payments**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/payguard-dq)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Revanthm2027/payguard-dq)
 
 A hackathon-ready, end-to-end prototype for automated data quality scoring of payment transactions using a multi-agent architecture.
 
